@@ -1,1 +1,1 @@
-> Autores: Rodrigo Martínez & Angelo Manrique & Iván Latasa.
+Authors --> Rodrigo Martínez + Angelo Gabriel Manrique + Iván Latasa
