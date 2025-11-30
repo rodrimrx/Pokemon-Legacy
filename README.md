@@ -22,6 +22,6 @@
 ⠸⢹⠙⡎⢏⠳⢍⠫⡙⡜⢄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠣⡙⡐
 
 Authors:
-• Rodrigo Martínez
-• Angelo Gabriel Manrique
-• Iván Latasa
+* Rodrigo Martínez
+* Angelo Gabriel Manrique
+* Iván Latasa
